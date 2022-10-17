@@ -54,7 +54,7 @@ namespace name_sorter
             //Writes names to new sorted file in current directory
             File.WriteAllLines(saveFilePath, sortedList);   
             Console.WriteLine("------------------------------------------------------------------------");
-            Console.WriteLine("Process is successfuly sorted! the output place in sorted-names-list.txt");
+            Console.WriteLine("List names is successfuly sorted! the output place in sorted-names-list.txt");
             Console.WriteLine("------------------------------------------------------------------------");
         }
     }
