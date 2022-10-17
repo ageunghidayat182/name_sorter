@@ -2,7 +2,7 @@
 
 USAGE:
 - open cmd
-- go to {HOME}\bin\Debug\netcoreapp3.1
+- go to {HOME}\name_sorter\bin\Debug\netcoreapp3.1
 - type "name_sorter.exe unsorted-names-list.txt"
 - then the output will be store on "sorted-names-list.txt"
 
